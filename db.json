@@ -1,0 +1,25 @@
+{
+    "streams": [
+      {
+        "title": "My Hero Acadameia",
+        "description": "A tale of midoriya ordinary school going boy , meets ALL MIGHT ⚡⚡his favorite super hero. NO MO' SPOLIERS ",
+        "id": 1
+      },
+      {
+        "title": "ATTACK ON TITANS",
+        "description": "NO SPOILERS, EREN YAEGERRR !!!",
+        "userId": "114964719933697626737",
+        "id": 2
+      },
+      {
+        "title": "ONE PUNCH MAN",
+        "description": "CAPED BALDY!!! AKA SAITAMAAAAA!!!!!!!!!",
+        "id": 3
+      },
+      {
+        "title": "ANAYA",
+        "description": "U BAKAAA",
+        "id": 4
+      }
+    ]
+  }
